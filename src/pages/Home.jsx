@@ -12,7 +12,7 @@ const advantages = [
 const Home = () => {
   return (
     <section className="mt-10 max-container">
-        <h1 className="lg:text-6xl text-4xl font-bold text-center lg:w-[700px] lg:mx-auto mx-6">Рекламно-производственная компания "AD Company"</h1>
+        <h1 className="lg:text-6xl text-3xl font-bold text-center lg:w-[700px] lg:mx-auto mx-6">Рекламно-производственная компания "AD Company"</h1>
         <h2 className="mt-20 lg:text-2xl text-xl font-medium text-center lg:w-[700px] lg:mx-auto mx-6">Мы одни из лидеров в сфере рекламных услуг Казахстана. С 2012 года на рынке изготовления рекламы. Собственное производство. Полный спектр Рекламных услуг</h2>
 
         <div className="mt-16 lg:ml-80 ml-8">
